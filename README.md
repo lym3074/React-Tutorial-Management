@@ -1,5 +1,5 @@
 # Management System
-이번 프로젝트는 리액트에 대한 전반적인 학습을 위해 진행하는 프로젝트입니다.
+이번 프로젝트는 리액트에 대한 전반적인 학습을 위해 진행하는 프로젝트입니다.\
 고객 관리 시스템(Management System)을 구현합니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
